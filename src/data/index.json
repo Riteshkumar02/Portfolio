@@ -1,0 +1,45 @@
+{
+  "skills":[
+  {
+    "id":"1",
+    "src":"https://t4.ftcdn.net/jpg/03/58/42/75/240_F_358427509_EFpw8u9515zgHy6cPHsOJaCz3ueNts5y.jpg",
+    "title":"Front-End",
+    "description":"My preferred technologies for front-end web development and component design."
+  },
+  {
+    "id":"2",
+    "src":"./Backendpic.jpg",
+    "title":"Back-End",
+    "description":"My preferred technologies for back-end web programming and database architecture."
+  },
+  {
+    "id":"3",
+    "src":"https://assets-global.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
+    "title":"Android",
+    "description":"My preferred technologies for Android develpment.Flutter is one of fastest growing technologies."
+  }
+],
+"portfolio": [
+  {
+    "id": "1",
+    "src": "./quiz.png",
+    "title": "Quiz-App",
+    "description": "I developed and designed a website using ReactJS and Bootstrap, hosted on Github Pages, to showcase my web presence, story, work experience, education, projects, and achievements in an interactive and visually-appealing format.",
+    "link": "https://riteshkumar02.github.io/Quiz-App/"
+  },
+  {
+    "id": "2",
+    "src": "./cake.png",
+    "title": "Bakery-Website",
+    "description": "I developed and designed a website using Html,Css,JS and Bootstrap, hosted on Github Page.It is good attractive cake website.I researched on it which cake is most likely to which age group and most popular cakes in the world.",
+    "link": "https://riteshkumar02.github.io/cake-website/"
+  },
+  {
+    "id": "3",
+    "src": "./bmi.png",
+    "title": "Bmi-Calculator",
+    "description": "I have developed a simple BMI calculator using the Flutter framework. The calculator helps users calculate their Body Mass Index (BMI) based on their height and weight.With this app,it will instantly calculate their BMI. The app is easy to use and provides accurate results.",
+    "link": "https://github.com/Riteshkumar02/BodyMassIndex-BMI-"
+  }
+]
+}
